@@ -56,15 +56,15 @@
 
 		<dependency>
 		 <groupId>commons-io</groupId>
-    <artifactId>commons-io</artifactId>
-    <version>LATEST</version>
-
+        <artifactId>commons-io</artifactId>
+        <version>LATEST</version>
 		</dependency>
-		 	<dependency>
-			<groupId>net.sourceforge.jexcelapi</groupId>
-			<artifactId>jxl</artifactId>
-			<version>2.6.12</version>
-			<scope>provided</scope>
+		
+		<dependency>
+		<groupId>net.sourceforge.jexcelapi</groupId>
+		<artifactId>jxl</artifactId>
+		<version>2.6.12</version>
+		<scope>provided</scope>
 		</dependency>
 
 	</dependencies>
